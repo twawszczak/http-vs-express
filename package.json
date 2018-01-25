@@ -1,0 +1,23 @@
+{
+  "license": "MIT",
+  "name": "http-vs-express",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Mapp Digital",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ts-node": "^4.0.2",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^8.5.2",
+    "@types/express": "^4.11.0",
+    "tslint": "^5.8.0",
+    "tslint-config-standard": "^7.0.0"
+  }
+}
+

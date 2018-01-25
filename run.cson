@@ -1,0 +1,4 @@
+# in repository - empty at all
+#make your own .cson file and bind to application by env variable process.env.CONFIG_PATH
+
+APP_NAME: "parkmgr"

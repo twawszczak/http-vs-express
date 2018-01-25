@@ -1,0 +1,20 @@
+# NPM
+/node_modules/
+/npm-debug.log
+/package-lock.json
+
+# Yarn
+/yarn-error.log
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Mac
+.DS_Store
+
+# offline modules
+# comment it out in stable branch
+/yarn.lock
+
